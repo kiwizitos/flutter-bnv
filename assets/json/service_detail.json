@@ -1,0 +1,33 @@
+[
+  {
+    "id": 0,
+    "service_name": "Fonoaudióloga",
+    "service_url": "assets/svg/bnv6.svg",
+    "service_description": "Na fonoaudiologia você aprendera a escutar e se expressar, trazendo uma seguranca maior ao se comunicar.",
+    "price": 270,
+    "benefits": [
+      "Fluência na voz",
+      "Escrita",
+      "Melhora na dicção",
+      "Articulação da fala",
+      "Linguagem oral"
+    ],
+    "author": "Larissa Suzart",
+    "author_url": "assets/images/author/larissa.jpg"
+  },
+  {
+    "id": 1,
+    "service_name": "Psicóloga",
+    "service_url": "assets/svg/bnv4.svg",
+    "service_description": "Na psicologia, será  abordado temas para que voce se sinta mais confortável e confiante consigo mesmo.",
+    "price": 270,
+    "benefits": [
+      "Qualidade de vida",
+      "Autoestima elevada",
+      "Inteligência emocional",
+      "Autoconhecimento"
+    ],
+    "author": "Anna Flávia Lima",
+    "author_url": "assets/images/author/anna.jpg"
+  }
+]

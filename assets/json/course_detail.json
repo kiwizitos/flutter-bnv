@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "course_name": "Marketing Digital",
+    "course_url": "assets/svg/bnv12.svg",
+    "course_description": "Este curso terá como objetivo, foco em marketing nas redes sociais, online,  e propagandas",
+    "price": 405,
+    "duration": 9,
+    "author": "Fernando Souza",
+    "author_url": "assets/images/author/fernando.png",
+    "lessons": [
+      "Introdução",
+      "Mercado",
+      "Roteiro",
+      "Marca",
+      "Identidade",
+      "Thumbnails",
+      "Anúncios",
+      "Venda",
+      "Promoção"
+    ]
+  },
+  {
+    "id": 1,
+    "course_name": "Gestão Financeira",
+    "course_url": "assets/svg/bnv4.svg",
+    "course_description": "Aqui voce aprenderá a ter controle da sua vida financeira e de seus gastos.",
+    "price": 405,
+    "duration": 9,
+    "author": "Altair Alves",
+    "author_url": "assets/images/author/altair.jpg",
+    "lessons": [
+      "Introdução",
+      "Mercado",
+      "Finanças",
+      "Gastos",
+      "Porcentagem",
+      "Descontos",
+      "Planilhas",
+      "Depreciação",
+      "Promoção"
+    ]
+  }
+]
